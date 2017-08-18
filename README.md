@@ -1,2 +1,2 @@
-# https-discuss.erpnext.com-u-sabby5
+# https://discuss.erpnext.com/u/sabby5/activity
 ERPNext
